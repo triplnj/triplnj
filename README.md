@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, the name is Dejan</h1>
 <h3 align="center">A creative frontend developer</h3>
+<img src="https://thumbs.gfycat.com/EsteemedMeanBunting-max-1mb.gif" />
 
-https://thumbs.gfycat.com/EsteemedMeanBunting-max-1mb.gif
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, JS, Linux**
