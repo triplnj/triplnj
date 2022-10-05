@@ -1,6 +1,6 @@
 <h1 align="center">Hi, my name is Dejan</h1>
 <h2 align="center">and I am</h2>
-<div align="center"><img src="https://thumbs.gfycat.com/EsteemedMeanBunting-max-1mb.gif" style="width:200px;height:200px;"/></div>
+<div align="center"><img src="https://thumbs.gfycat.com/EsteemedMeanBunting-max-1mb.gif" style="width:150px;height:150px;"/></div>
 <h3 align="center">A Persistent Frontend Developer</h3>
 
 
