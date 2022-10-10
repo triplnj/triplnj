@@ -4,7 +4,7 @@
 <h3 align="center">A Persistent Frontend Developer</h3>
 
 
-- 🌱 I’m currently learning **Frontend Developing with DCI**
+- 🌱 I’m currently learning **Web Developing with DCI**
 
 - 💬 Ask me about **HTML, CSS, JS, Linux**
 
