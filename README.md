@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Developing with DCI Digital Career Institute gGmbH, Berlin**
 
-- 💬 Ask me about **HTML, CSS, JS, React, Linux**
+- 💬 Ask me about **HTML, CSS, JS, React, Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
