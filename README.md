@@ -1,12 +1,12 @@
 <h1 align="center">Hi, my name is Dejan</h1>
 <h2 align="center">and I am</h2>
 <div align="center"><img src="https://thumbs.gfycat.com/EsteemedMeanBunting-max-1mb.gif" style="width:150px;height:150px;"/></div>
-<h3 align="center">A Persistent Frontend Developer</h3>
+<h3 align="center">A Persistent Full-stack Developer</h3>
 
 
-- 🌱 I’m currently learning **Web Developing with DCI**
+- 🌱 I’m currently learning **Full-Stack Web Developing with DCI**
 
-- 💬 Ask me about **HTML, CSS, JS, Linux**
+- 💬 Ask me about **HTML, CSS, JS, React, Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
